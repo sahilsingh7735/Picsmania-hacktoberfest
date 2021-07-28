@@ -103,7 +103,7 @@ function App() {
         <div style={modalStyle} className={classes.paper}>
           <form className="app__signup">
             <center>
-              <img className="app__headerimage" alt="abc" src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"></img>
+              <img className="app__headerimage" alt="abc" src="https://imgur.com/J7gA0Zv.png"></img>
             </center>
             <Input
               type='text'
@@ -135,7 +135,7 @@ function App() {
         <div style={modalStyle} className={classes.paper}>
           <form className="app__signup">
             <center>
-              <img className="app__headerimage" alt="abc" src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"></img>
+              <img className="app__headerimage" alt="abc" src="https://imgur.com/J7gA0Zv.png"></img>
             </center>
             <Input
               type='email'
@@ -158,7 +158,7 @@ function App() {
       <div className="app__header">
         <img
           className="app__headerimage"
-          src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png"
+          src="https://imgur.com/J7gA0Zv.png"
           alt=""
         />
         {user ? (
